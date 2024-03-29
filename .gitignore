@@ -1,0 +1,8 @@
+*.csv
+*.txt
+*.pdf
+Reports
+Weekly sub
+assignent-1
+train_data
+.DS_Store
